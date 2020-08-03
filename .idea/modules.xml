@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dial_Video_One_To_One_Example.iml" filepath="$PROJECT_DIR$/.idea/modules/Dial_Video_One_To_One_Example.iml" group="Dial_Video_One_To_One_Example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Dial_Video_One_To_One_Example/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dial_video_one_to_one/dial_video_one_to_one.iml" filepath="$PROJECT_DIR$/.idea/modules/dial_video_one_to_one/dial_video_one_to_one.iml" group="Dial_Video_One_To_One_Example/dial_video_one_to_one" />
+    </modules>
+  </component>
+</project>
