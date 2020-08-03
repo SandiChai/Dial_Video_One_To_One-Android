@@ -1,0 +1,3 @@
+include ':dial_video_one_to_one'
+include ':app'
+rootProject.name = "Dial_Video_One_To_One_Example"
